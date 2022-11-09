@@ -4,6 +4,7 @@ Requerimientos, Buyer persona, público objetivo, Wireframe UX y UI.
 
 ## Descripción general del proyecto
 Proyecto: Caso Abogabot
+
 Introducción del sitio: El Sitio Web estará diseñado para automatizar las demandas de los clientes de un despacho de abogados.
 
 ## Fase de formalización
