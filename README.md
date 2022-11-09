@@ -119,6 +119,8 @@ Sistema:
 
 ![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/homepage2.png)
 
+
+
 ![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/homepage3.png)
 
 ![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/registrarse.png)
