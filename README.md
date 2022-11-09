@@ -113,3 +113,32 @@ Sistema:
 ![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/PublicoObjetivo.png)
 
 # Wireframe UX
+
+## HomePage, registro e inicio de sesión
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/homepage1.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/homepage2.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/homepage3.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/registrarse.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/iniciarSesion.png)
+
+## Usuario
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/formulario.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/procesoDePago.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/actualizaciones.png)
+
+## Administrador
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/procesoDeDemandas.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/actualizarDemandas.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/ingresosRecibidos.png)
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/notificaciones.png)
