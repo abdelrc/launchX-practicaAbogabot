@@ -104,3 +104,12 @@ Sistema:
 
 ![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/modelofisicoAbogabot.png)
 
+# Buyer Persona
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/BuyerPersona.png)
+
+# Público Objetivo
+
+![](https://github.com/abdelrc/launchX-practicaAbogabot/blob/main/images/PublicoObjetivo.png)
+
+# Wireframe UX
